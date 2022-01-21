@@ -21,3 +21,4 @@ Arquivos:
 - git remote remove origin - remove referência do repositório remoto
 - git log - lista o histórico de commits
 - git diff - visualizar as diferenças a serem commitadas (antes do git add e commit)
+- git checkout -b branch_name - cria um ramo (branch) a partir do último commit
