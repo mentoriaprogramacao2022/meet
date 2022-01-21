@@ -19,3 +19,5 @@ Arquivos:
 - git commit -m "Mensagem do commit" - descrição das alterações realizadas até o momento no repositório
 - git push origin main - Envia o conteúdo local para o repositório remoto (github)
 - git remote remove origin - remove referência do repositório remoto
+- git log - lista o histórico de commits
+- git diff - visualizar as diferenças a serem commitadas (antes do git add e commit)
